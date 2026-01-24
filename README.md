@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Advanced CSS/Sass and JS**
 
-- 📫 How to reach me **muhammadabdullahnazir6@gmail.com**,**stinkmang6@gmail.com**
+- 📫 How to reach me **muhammadabdullahnazir6@gmail.com**   |   **stinkmang6@gmail.com**
 
 - ⚡ Fun fact **I'm more confident than most seniors**
 
